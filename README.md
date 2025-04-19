@@ -1,6 +1,9 @@
 # multi_module_project
 This project contains the setup related to multi module project
 
+Refer
+https://www.youtube.com/watch?v=XIg7O7ndXqs&list=PLlc_LrU50tlgWOrybr-Ppffg6T_1cXeUb&ab_channel=AJAUTOMATION
+
 Terminology:
 Parent Project or Aggregator Project — the main project with a pom.xml that includes <modules>.
 Module — a sub-project that is listed in the parent POM.
