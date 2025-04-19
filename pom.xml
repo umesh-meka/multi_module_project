@@ -11,4 +11,20 @@
 		<module>module1-project</module>
 		<module>module2-project</module>
 	</modules>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-lang3</artifactId>
+				<version>3.17.0</version>
+			</dependency>
+			<dependency>
+				<groupId>com.google.guava</groupId>
+				<artifactId>guava</artifactId>
+				<version>32.1.2-jre</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
 </project>

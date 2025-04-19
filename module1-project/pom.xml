@@ -10,4 +10,11 @@
 	<groupId>io.github.umeshmeka.parent.module1</groupId>
 	<artifactId>module1-project</artifactId>
 	<name>Module1 Project</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+		</dependency>
+	</dependencies>
 </project>
